@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhishekh Yadav</h1>
 <h3 align="center">I’m a passionate Frontend Developer from India with a strong interest in building modern, responsive, and user-friendly web applications. I enjoy turning ideas into interactive digital experiences using technologies like HTML, CSS, JavaScript, and modern frameworks such as React and Tailwind CSS. With a keen eye for design and detail, I strive to create clean, efficient, and accessible code while ensuring a smooth user experience. I’m constantly exploring new tools, frameworks, and best practices to stay updated in the fast-growing world of frontend development. Beyond coding, I love learning, problem-solving, and collaborating on projects that challenge me to grow as a developer. My goal is to contribute to impactful projects while continuously improving my skills and creativity.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=git-abhi-2005&label=Profile%20views&color=0e75b6&style=flat" alt="git-abhi-2005" /> </p>
+
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **E-sports website**
