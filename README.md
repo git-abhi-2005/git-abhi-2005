@@ -1,7 +1,7 @@
 <!-- Video Banner (GIF) -->
 <p align="center">
   <img src="https://64.media.tumblr.com/5ccc4b2c9f508d00d3021243417c5c17/1ce03b0f34264d21-38/s540x810/1b1bedbd16b1ecbf25fbe803659f36cf83e9619e.gifv" 
-       alt="Video Banner" width="100%" />
+       alt="Video Banner" width="50%" />
 </p>
 <h1 align="center">Hi 👋, I'm Abhishekh Yadav</h1>
 <h3 align="center">I’m a passionate Frontend Developer from India with a strong interest in building modern, responsive, and user-friendly web applications. I enjoy turning ideas into interactive digital experiences using technologies like HTML, CSS, JavaScript, and modern frameworks such as React and Tailwind CSS. With a keen eye for design and detail, I strive to create clean, efficient, and accessible code while ensuring a smooth user experience. I’m constantly exploring new tools, frameworks, and best practices to stay updated in the fast-growing world of frontend development. Beyond coding, I love learning, problem-solving, and collaborating on projects that challenge me to grow as a developer. My goal is to contribute to impactful projects while continuously improving my skills and creativity.</h3>
