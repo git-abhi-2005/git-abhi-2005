@@ -6,7 +6,13 @@
   Hi 👋, I'm <span style="color:#8A2BE2;">Abhishekh Yadav</span>
 </h1>
 
-<h3 align="center">Once a confused beginner who couldn't understand why HTML had no 'logic' and Java had too much of it, I started my journey by breaking layouts so badly that even Chrome asked me ‘bro, you okay?’; spent countless nights fighting CSS villains like margins that never listened, divs that refused to center, and animations that moved in every direction except the one I wanted; battled Java’s OOP monsters—Inheritance dragons, Polymorphism ninjas, and that one Encapsulation boss fight we don’t talk about; learned to turn errors into amusement, bugs into brain cells, and frustration into caffeine-fueled breakthroughs; slowly fell in love with building clean, responsive, satisfying interfaces; and now I’m leveling up step by step—creating smoother UIs, writing smarter Java code, and crafting the kind of digital experiences I once wished existed, all while still Googling things I should probably remember by now.</h3>
+<details>
+  <summary>My Developer Story</summary>
+  
+  Once a confused beginner who couldn't understand why HTML had no 'logic' and Java had too much of it, I started my journey by breaking layouts so badly that even Chrome asked me ‘bro, you okay?’; spent countless nights fighting CSS villains like margins that never listened, divs that refused to center, and animations that moved in every direction except the one I wanted; battled Java’s OOP monsters—Inheritance dragons, Polymorphism ninjas, and that one Encapsulation boss fight we don’t talk about; learned to turn errors into amusement, bugs into brain cells, and frustration into caffeine-fueled breakthroughs; slowly fell in love with building clean, responsive, satisfying interfaces; and now I’m leveling up step by step—creating smoother UIs, writing smarter Java code, and crafting the kind of digital experiences I once wished existed, all while still Googling things I should probably remember by now.
+  
+</details>
+
 
 
 - 🔭 I’m currently working on **Improving my full-stack development skills and building real-world applications.**
