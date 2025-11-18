@@ -20,6 +20,7 @@
     animation: cosmic-glow 4s infinite;
   }
   .animated-text { animation: fadeIn 2s ease-in-out; }
+  .lighten-logo { filter: brightness(1.5) invert(1); } /* Dark logos को light करने के लिए */
 </style>
 
 <h1 align="center" class="animated-text" style="color: #00bcd4; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); font-family: 'Arial', sans-serif; background: linear-gradient(45deg, #8000ff, #00bcd4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5em;">🚀🌌 Abhishekh Yadav's Epic Developer Quest 🌌🚀</h1>
@@ -58,9 +59,9 @@
 <p align="left" class="section-border" style="background: linear-gradient(135deg, #8000ff 0%, #00bcd4 100%); padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
 <a href="https://codepen.io/@abhishekh-the-solid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@abhishekh-the-solid" height="40" width="50" style="filter: drop-shadow(0 0 5px #00bcd4); margin: 5px;" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishekh-yadav-72b12933b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishekh-yadav-72b12933b/" height="40" width="50" style="filter: drop-shadow(0 0 5px #8000ff); margin: 5px;" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/stud_isle_80" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/stud_isle_80" height="40" width="50" style="filter: drop-shadow(0 0 5px #ffffff); margin: 5px;" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/abhishekh_yadav1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/abhishekh_yadav1" height="40" width="50" style="filter: drop-shadow(0 0 5px #00bcd4); margin: 5px;" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/studyabhizk8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/studyabhizk8/" height="40" width="50" style="filter: drop-shadow(0 0 5px #8000ff); margin: 5px;" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/stud_isle_80" target="blank"><img align="center" class="lighten-logo" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/stud_isle_80" height="40" width="50" style="margin: 5px;" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/abhishekh_yadav1" target="blank"><img align="center" class="lighten-logo" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/abhishekh_yadav1" height="40" width="50" style="margin: 5px;" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/studyabhizk8/" target="blank"><img align="center" class="lighten-logo" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/studyabhizk8/" height="40" width="50" style="margin: 5px;" /></a>
 </p>
 
 ---
