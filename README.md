@@ -8,9 +8,9 @@
 
 ---
 
-<h2>
+
 <details>
-  <summary><b>My Developer Story</b></summary>
+  <h2><summary><b>My Developer Story</b></summary></h2>
 
 Once a confused beginner who couldn't understand why HTML had no "logic" and Java had too much of it,  
 I started my journey by breaking layouts so badly that Chrome itself asked, “bro, you okay?”  
@@ -27,7 +27,7 @@ and crafting digital experiences I once wished existed — while still Googling 
 I should probably remember by now. 😄
 
 </details>
-</h2>
+
 
 ---
 
