@@ -94,4 +94,3 @@ I should probably remember by now. 😄
   src="https://github-readme-stats.vercel.app/api?username=git-abhi-2005&show_icons=true&theme=tokyonight" 
 />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=git-abhi-2005&" alt="git-abhi-2005" /></p>
