@@ -21,7 +21,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,cpp,mysql,git,bootstrap,tailwind,unity" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,mysql,git,bootstrap,tailwind,unity" />
 </p>
 
 ---
@@ -59,14 +59,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=git-abhi-2005&label=Profile%20Views&color=8A2BE2&style=flat" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/git-abhi-2005/git-abhi-2005/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
