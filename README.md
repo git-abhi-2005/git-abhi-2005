@@ -24,7 +24,40 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,mysql,git,bootstrap,tailwind,unity" />
 </p>
 
----
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/abhishekh-yadav-72b12933b">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:study.abhishekh@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/git-abhi-2005">
+    <img src="https://skillicons.dev/icons?i=github" height="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.kaggle.com/abhishekh2005">
+    <img src="https://skillicons.dev/icons?i=kaggle" height="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/brood_road_80">
+    <img src="https://cdn.simpleicons.org/codechef/5B4638" height="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://dev.to/abhishekh_7d3d1a538c601e8">
+    <img src="https://cdn.simpleicons.org/devdotto/ffffff" height="50" />
+  </a>
+</p>
+
+
+
 
 ## 📊 GitHub Stats
 
