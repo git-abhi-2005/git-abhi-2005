@@ -19,15 +19,12 @@
 
 ## 💫 About Me
 
-```yaml
-Developer:
-  focus: "Full Stack Applications"
-  currently_learning: ["Java", "OOP", "React"]
-  passionate_about: "Clean UI & Smart Backend Logic"
-  collaboration: "Open to Frontend & Full Stack projects"
-  contact: "study.abhishekh@gmail.com"
-  motto: "I break things just to rebuild them better 😎"
-```
+- 🔭 Building Full Stack Applications
+- 🌱 Currently learning **Java • OOP • React**
+- 💡 Passionate about Clean UI & Smart Backend Logic
+- 🤝 Open to Frontend & Full Stack collaboration
+- 📫 Reach me at **study.abhishekh@gmail.com**
+- ⚡ I break things just to rebuild them better 😎
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4">
@@ -82,8 +79,8 @@ Developer:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=git-abhi-2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=git-abhi-2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=git-abhi-2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=8A2BE2" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=git-abhi-2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2" />
 </p>
 
 <p align="center">
