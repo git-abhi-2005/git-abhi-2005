@@ -83,7 +83,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=git-abhi-2005&theme=react-dark" />
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph?username=git-abhi-2005&theme=react-dark&hide_border=true&bg_color=0D1117&color=8A2BE2&line=8A2BE2&point=ffffff" />
 </p>
 
 ---
